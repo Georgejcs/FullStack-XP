@@ -1,0 +1,14 @@
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\bin\Debug\net8.0\ExemploFundamentos.NET.exe
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\bin\Debug\net8.0\ExemploFundamentos.NET.deps.json
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\bin\Debug\net8.0\ExemploFundamentos.NET.runtimeconfig.json
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\bin\Debug\net8.0\ExemploFundamentos.NET.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\bin\Debug\net8.0\ExemploFundamentos.NET.pdb
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.AssemblyInfoInputs.cache
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.AssemblyInfo.cs
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.csproj.CoreCompileInputs.cache
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\refint\ExemploFundamentos.NET.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.pdb
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ExemploFundamentos.NET.genruntimeconfig.cache
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\ExemploFundamentos.NET\obj\Debug\net8.0\ref\ExemploFundamentos.NET.dll

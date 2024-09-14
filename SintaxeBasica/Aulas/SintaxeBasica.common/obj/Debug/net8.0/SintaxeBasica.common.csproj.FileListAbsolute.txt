@@ -1,0 +1,11 @@
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\bin\Debug\net8.0\SintaxeBasica.common.deps.json
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\bin\Debug\net8.0\SintaxeBasica.common.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\bin\Debug\net8.0\SintaxeBasica.common.pdb
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.AssemblyInfoInputs.cache
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.AssemblyInfo.cs
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.csproj.CoreCompileInputs.cache
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\refint\SintaxeBasica.common.dll
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\SintaxeBasica.common.pdb
+D:\Atual\Programação\C#\FullStack_XP\SintaxeBasica\SintaxeBasica.common\obj\Debug\net8.0\ref\SintaxeBasica.common.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe_Basica", "SintaxeBasica\Sintaxe_Basica.csproj", "{23560392-F501-46D1-8251-7FF6761F6FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeBasica.common", "SintaxeBasica.common\SintaxeBasica.common.csproj", "{B071EDCA-C51C-4D12-8F21-988EE86C57DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23560392-F501-46D1-8251-7FF6761F6FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23560392-F501-46D1-8251-7FF6761F6FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23560392-F501-46D1-8251-7FF6761F6FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23560392-F501-46D1-8251-7FF6761F6FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B071EDCA-C51C-4D12-8F21-988EE86C57DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B071EDCA-C51C-4D12-8F21-988EE86C57DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B071EDCA-C51C-4D12-8F21-988EE86C57DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B071EDCA-C51C-4D12-8F21-988EE86C57DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C69CD6C2-8E5B-4190-BC58-0970F0F2ED9A}
+	EndGlobalSection
+EndGlobal
