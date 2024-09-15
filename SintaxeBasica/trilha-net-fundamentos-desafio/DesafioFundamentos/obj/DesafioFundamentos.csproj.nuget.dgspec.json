@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
+    "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
+    "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectPath": "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
+        "outputPath": "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

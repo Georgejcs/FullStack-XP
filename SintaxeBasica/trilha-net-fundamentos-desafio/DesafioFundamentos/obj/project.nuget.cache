@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OX+LvDON+ac=",
+  "dgSpecHash": "06YkY8M+kq8=",
   "success": true,
-  "projectFilePath": "D:\\Atual\\Programação\\C#\\FullStack_XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "projectFilePath": "D:\\Atual\\Programação\\C#\\FullStack-XP\\SintaxeBasica\\trilha-net-fundamentos-desafio\\DesafioFundamentos\\DesafioFundamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
