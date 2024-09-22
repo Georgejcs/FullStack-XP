@@ -1,0 +1,15 @@
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.sourcelink.json
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+D:\Atual\Programação\C#\FullStack-XP\DadosListas\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
