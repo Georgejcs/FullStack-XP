@@ -1,0 +1,15 @@
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.AssemblyInfo.cs
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.sourcelink.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\bin\Debug\net8.0\DesafioPOO.exe
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\bin\Debug\net8.0\DesafioPOO.deps.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\bin\Debug\net8.0\DesafioPOO.runtimeconfig.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\bin\Debug\net8.0\DesafioPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\bin\Debug\net8.0\DesafioPOO.pdb
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\refint\DesafioPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.pdb
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\DesafioPOO.genruntimeconfig.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\DesafioPOO\obj\Debug\net8.0\ref\DesafioPOO.dll

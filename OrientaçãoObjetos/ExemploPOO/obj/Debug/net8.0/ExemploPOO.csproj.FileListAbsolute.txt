@@ -1,0 +1,15 @@
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+D:\Atual\Programação\C#\FullStack-XP\OrientaçãoObjetos\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
