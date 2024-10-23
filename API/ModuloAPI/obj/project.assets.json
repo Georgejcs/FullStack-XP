@@ -4456,11 +4456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Atual\\Programação\\C#\\FullStack-XP\\API\\ModuloAPI\\ModuloAPI.csproj",
+      "projectUniqueName": "D:\\Programação\\FullStack-XP\\API\\ModuloAPI\\ModuloAPI.csproj",
       "projectName": "ModuloAPI",
-      "projectPath": "D:\\Atual\\Programação\\C#\\FullStack-XP\\API\\ModuloAPI\\ModuloAPI.csproj",
+      "projectPath": "D:\\Programação\\FullStack-XP\\API\\ModuloAPI\\ModuloAPI.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\Atual\\Programação\\C#\\FullStack-XP\\API\\ModuloAPI\\obj\\",
+      "outputPath": "D:\\Programação\\FullStack-XP\\API\\ModuloAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
