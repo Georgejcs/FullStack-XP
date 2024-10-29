@@ -4,15 +4,15 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MinimalApi.Infraestrutura.Db;
+using Minimal_API.Infraestrutura.Db;
 
 #nullable disable
 
 namespace Minimal_API.Migrations
 {
     [DbContext(typeof(DbContexto))]
-    [Migration("20241026185103_VeiculosMigration")]
-    partial class VeiculosMigration
+    [Migration("20241028205848_SeedAdministrador")]
+    partial class SeedAdministrador
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -39,8 +39,7 @@ namespace Minimal_API.Migrations
 
                     b.Property<string>("Perfil")
                         .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("varchar(10)");
+                        .HasColumnType("longtext");
 
                     b.Property<string>("Senha")
                         .IsRequired()
@@ -59,32 +58,6 @@ namespace Minimal_API.Migrations
                             Perfil = "Adm",
                             Senha = "123456"
                         });
-                });
-
-            modelBuilder.Entity("Minimal_API.Dominio.Entidades.Veiculo", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int>("Ano")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Marca")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)");
-
-                    b.Property<string>("Nome")
-                        .IsRequired()
-                        .HasMaxLength(150)
-                        .HasColumnType("varchar(150)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Veiculos");
                 });
 #pragma warning restore 612, 618
         }

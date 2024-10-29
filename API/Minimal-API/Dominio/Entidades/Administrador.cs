@@ -1,5 +1,9 @@
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Minimal_API.Dominio.Entidades
 {
@@ -7,7 +11,7 @@ namespace Minimal_API.Dominio.Entidades
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public int Id { get; set; } = default!;
 
         [Required]
         [StringLength(255)]

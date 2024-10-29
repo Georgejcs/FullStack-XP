@@ -1,6 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Minimal_API.Dominio.DTOs;
 using Minimal_API.Dominio.Entidades;
-using MinimalApi.DTOs;
 
 namespace Minimal_API.Dominio.Interfaces
 {
@@ -10,6 +13,5 @@ namespace Minimal_API.Dominio.Interfaces
         Administrador Incluir(Administrador administrador);
         Administrador? BuscaPorId(int id);
         List<Administrador> Todos(int? pagina);
-
     }
 }

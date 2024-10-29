@@ -4,15 +4,15 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MinimalApi.Infraestrutura.Db;
+using Minimal_API.Infraestrutura.Db;
 
 #nullable disable
 
 namespace Minimal_API.Migrations
 {
     [DbContext(typeof(DbContexto))]
-    [Migration("20241026163509_SeedAdministrador")]
-    partial class SeedAdministrador
+    [Migration("20241028204250_AdministradorMigration")]
+    partial class AdministradorMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,15 +32,13 @@ namespace Minimal_API.Migrations
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Email")
-                        .IsRequired()
+                    b.Property<int>("Email")
                         .HasMaxLength(255)
-                        .HasColumnType("varchar(255)");
+                        .HasColumnType("int");
 
                     b.Property<string>("Perfil")
                         .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("varchar(10)");
+                        .HasColumnType("longtext");
 
                     b.Property<string>("Senha")
                         .IsRequired()
@@ -50,15 +48,6 @@ namespace Minimal_API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Administradores");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Email = "administrador@teste.com",
-                            Perfil = "Adm",
-                            Senha = "123456"
-                        });
                 });
 #pragma warning restore 612, 618
         }

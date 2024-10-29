@@ -10,6 +10,17 @@ namespace Minimal_API.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.AlterColumn<string>(
+                name: "Email",
+                table: "Administradores",
+                type: "varchar(255)",
+                maxLength: 255,
+                nullable: false,
+                oldClrType: typeof(int),
+                oldType: "int",
+                oldMaxLength: 255)
+                .Annotation("MySql:CharSet", "utf8mb4");
+
             migrationBuilder.InsertData(
                 table: "Administradores",
                 columns: new[] { "Id", "Email", "Perfil", "Senha" },
@@ -23,6 +34,17 @@ namespace Minimal_API.Migrations
                 table: "Administradores",
                 keyColumn: "Id",
                 keyValue: 1);
+
+            migrationBuilder.AlterColumn<int>(
+                name: "Email",
+                table: "Administradores",
+                type: "int",
+                maxLength: 255,
+                nullable: false,
+                oldClrType: typeof(string),
+                oldType: "varchar(255)",
+                oldMaxLength: 255)
+                .OldAnnotation("MySql:CharSet", "utf8mb4");
         }
     }
 }
